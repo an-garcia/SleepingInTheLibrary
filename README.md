@@ -1,7 +1,7 @@
 # SleepingInTheLibrary
 
 
-![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-11-23at14.00.07x.png)
+![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-11-24at17.14.18.png)
 
 
 SleepingInTheLibrary is an iOS sample application that makes requests for images to Flickr API
