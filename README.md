@@ -11,7 +11,7 @@ The application is based on [iOS Networking with Swift](https://www.udacity.com/
 
 ## Requirements
 - MAC machine with Xcode installed
-- A flickr API key.  Sing for one at https://www.flickr.com/  ideally with a Yahoo acount.
+- A flickr API key.  Sign for one at https://www.flickr.com/  ideally with a Yahoo email acount.
 
 
 
