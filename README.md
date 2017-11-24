@@ -14,6 +14,18 @@ The application is based on [iOS Networking with Swift](https://www.udacity.com/
 - A flickr API key.  Sign for one at https://www.flickr.com/  ideally with a Yahoo email acount.
 
 
+## Notes
+To visualize JSON:
+- [Postman (Google Chrome only)](https://www.getpostman.com/)
+- [Paw (Desktop app)](https://paw.cloud/)
+- [Cocoa Rest Client (Desktop app)](http://mmattozzi.github.io/cocoa-rest-client/)
+
+flickr API documentation:
+- [Flickr documentation](https://www.flickr.com/services/api/)
+- [flickr.galleries.getPhotos](https://www.flickr.com/services/api/flickr.galleries.getPhotos.html)
+- [flickr.people.getPublicPhotos](https://www.flickr.com/services/api/flickr.people.getPublicPhotos.html)
+- [flickr.stats.getPhotoStats](https://www.flickr.com/services/api/flickr.stats.getPhotoStats.html)
+- [flickr.urls.getUserPhotos](https://www.flickr.com/services/api/flickr.urls.getUserPhotos.html)
 
 ## License
 
